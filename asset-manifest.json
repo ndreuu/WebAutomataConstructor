@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/WebAutomataConstructor/static/css/main.5b380ef1.chunk.css",
-    "main.js": "/WebAutomataConstructor/static/js/main.98f9e026.chunk.js",
-    "main.js.map": "/WebAutomataConstructor/static/js/main.98f9e026.chunk.js.map",
+    "main.js": "/WebAutomataConstructor/static/js/main.a3df8216.chunk.js",
+    "main.js.map": "/WebAutomataConstructor/static/js/main.a3df8216.chunk.js.map",
     "runtime~main.js": "/WebAutomataConstructor/static/js/runtime~main.f485f77d.js",
     "runtime~main.js.map": "/WebAutomataConstructor/static/js/runtime~main.f485f77d.js.map",
     "static/js/2.59d2c6ba.chunk.js": "/WebAutomataConstructor/static/js/2.59d2c6ba.chunk.js",
     "static/js/2.59d2c6ba.chunk.js.map": "/WebAutomataConstructor/static/js/2.59d2c6ba.chunk.js.map",
     "index.html": "/WebAutomataConstructor/index.html",
-    "precache-manifest.90d12e29048a213f735ba5db3cef2274.js": "/WebAutomataConstructor/precache-manifest.90d12e29048a213f735ba5db3cef2274.js",
+    "precache-manifest.bfd8bd64f859611c46a47b1e0c0a32df.js": "/WebAutomataConstructor/precache-manifest.bfd8bd64f859611c46a47b1e0c0a32df.js",
     "service-worker.js": "/WebAutomataConstructor/service-worker.js",
     "static/css/main.5b380ef1.chunk.css.map": "/WebAutomataConstructor/static/css/main.5b380ef1.chunk.css.map"
   }
